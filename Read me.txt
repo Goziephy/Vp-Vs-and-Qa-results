@@ -1,0 +1,9 @@
+File structure:
+Vs..txt: 87x31 matrices with S-wave velocities
+Vp..txt: 87x31 matrices with P-wave velocities
+Qa..txt: 87x31 matrices with Allowable bearing pressure
+
+coordinate:
+x_min, x_max = -10, 33
+y_min, y_max = 0, 15
+
